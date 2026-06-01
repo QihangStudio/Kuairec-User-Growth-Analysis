@@ -1,4 +1,4 @@
-# Kuairec-User-Growth-Analysis
+# Kuairec User Growth Analysis
 This repository contains the analysis code, SQL queries, visualizations, and business insights based on the KuaiRec dataset.
 
 
