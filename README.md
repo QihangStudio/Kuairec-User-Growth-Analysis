@@ -26,6 +26,7 @@ KuaiRec Analysis/
 ├── docs/
 │   └── dev_log.md
 ├── notebooks/
+├── py/
 ├── sql/
 │   └── 00_load_data.sql
 │   └── 01_data_overview.sql
