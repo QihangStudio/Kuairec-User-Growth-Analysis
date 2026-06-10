@@ -28,6 +28,8 @@ KuaiRec Analysis/
 ├── notebooks/
 ├── sql/
 │   └── 00_load_data.sql
+│   └── 01_data_overview.sql
+│   └── 02_data_quality.sql
 ├── README.md
 └── .gitignore
 ```
